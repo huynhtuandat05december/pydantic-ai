@@ -982,6 +982,11 @@ navigation:
             slug: "examples/getting-started/weather-agent"
             aliases:
               - "examples/weather-agent"
+          - page: "Trip Planner"
+            path: "examples/trip-planner.md"
+            slug: "examples/getting-started/trip-planner"
+            aliases:
+              - "examples/trip-planner"
       - section: "Conversational Agents"
         slug: ""
         contents:

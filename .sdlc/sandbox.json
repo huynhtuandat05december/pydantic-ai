@@ -1,0 +1,7 @@
+{
+  "image": "python:3.12-bookworm",
+  "setup": "uv sync --extra examples",
+  "verify": ["uv run pytest tests/test_trip_planner_example.py"],
+  "shell": "/bin/bash",
+  "depsStrategy": "none"
+}
