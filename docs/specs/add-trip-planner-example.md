@@ -2,7 +2,7 @@
 id: add-trip-planner-example
 type: ticket
 flow: feature
-status: ready
+status: done
 title: Add a structured-output trip planner example
 acceptance:
   - New file examples/pydantic_ai_examples/trip_planner.py defines a Pydantic model TripPlan (destination, days, activities list) and an Agent with output_type=TripPlan
